@@ -1,0 +1,5 @@
+# Ignore packer cache
+packer_cache
+
+# Ignore packer output
+*.box
